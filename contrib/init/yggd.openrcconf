@@ -1,0 +1,26 @@
+# /etc/conf.d/yggd: config file for /etc/init.d/yggd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/ygg/ygg.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/yggd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/yggd.pid"
+
+# Where to write yggd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/yggd"
+
+# User and group to own yggd process
+#BITCOIND_USER="ygg"
+#BITCOIND_GROUP="ygg"
+
+# Path to yggd executable
+#BITCOIND_BIN="/usr/bin/yggd"
+
+# Nice value to run yggd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

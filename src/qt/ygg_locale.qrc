@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/ygg_bg.qm</file>
+        <file alias="ca">locale/ygg_ca.qm</file>
+        <file alias="cs">locale/ygg_cs.qm</file>
+        <file alias="da">locale/ygg_da.qm</file>
+        <file alias="de">locale/ygg_de.qm</file>
+        <file alias="en">locale/ygg_en.qm</file>
+        <file alias="en_US">locale/ygg_en_US.qm</file>
+        <file alias="es">locale/ygg_es.qm</file>
+        <file alias="fi">locale/ygg_fi.qm</file>
+        <file alias="fr_FR">locale/ygg_fr_FR.qm</file>
+        <file alias="it">locale/ygg_it.qm</file>
+        <file alias="ja">locale/ygg_ja.qm</file>
+        <file alias="ko_KR">locale/ygg_ko_KR.qm</file>
+        <file alias="nl">locale/ygg_nl.qm</file>
+        <file alias="pl">locale/ygg_pl.qm</file>
+        <file alias="pt">locale/ygg_pt.qm</file>
+        <file alias="pt_BR">locale/ygg_pt_BR.qm</file>
+        <file alias="ro_RO">locale/ygg_ro_RO.qm</file>
+        <file alias="ru">locale/ygg_ru.qm</file>
+        <file alias="sk">locale/ygg_sk.qm</file>
+        <file alias="sv">locale/ygg_sv.qm</file>
+        <file alias="tr">locale/ygg_tr.qm</file>
+        <file alias="uk">locale/ygg_uk.qm</file>
+        <file alias="zh_CN">locale/ygg_zh_CN.qm</file>
+        <file alias="zh_TW">locale/ygg_zh_TW.qm</file>
+    </qresource>
+</RCC>
